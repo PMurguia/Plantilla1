@@ -1,0 +1,118 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+.clear {
+    clear: both;
+}
+
+#title {
+    width: 30%;
+    float: left;
+}
+
+#menu {
+    float: right;
+    width: 70%;
+}
+
+li {
+    float: left;
+    list-style-type: none;
+    margin: 20px;
+    color: white;
+}
+
+#lista {
+    float: right;
+    background-color: firebrick;
+    border-radius: 10px;
+    text-align: right;
+}
+
+.primero {
+    clear: both;
+}
+
+blockquote {
+    text-align: center;
+    font-size: 30px;
+    margin: 60px 125px 60px 125px;
+}
+
+#canyon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    margin-bottom: 50px;
+}
+
+#services {
+    background-color: firebrick;
+    border-radius: 4px;
+    text-align: center;
+    margin: 50px;
+    width: 150px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    color: white;
+}
+
+.tres {
+    float: left;
+    width: 32%;
+    margin: 5px;
+    padding: inherit;
+}
+
+.titulo {
+    float: inherit;
+}
+
+.readmore {
+    color: darkred;
+}
+
+.descriptiontres {
+    font-size: 20px;
+    margin-top: 0;
+    margin-left: 50px;
+}
+
+.cinco {
+    width: 20%;
+    float: left;
+    padding: 5px;
+}
+
+.img {
+    width: 100%;
+}
+
+.img {
+    width: 100%;
+    float: left;
+}
+
+.img3 {
+    float: left;
+    width: 32%;
+    padding: 10px;
+}
+
+.tresfotos {
+    float: left;
+    width: 32%;
+    margin-left: 10px;
+    padding: inherit;
+    margin-bottom: 100px;
+}
+
+
+
+.grey {
+    background-color: lightslategrey;
+}
